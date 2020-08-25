@@ -1,0 +1,44 @@
+baseURL = "https://robruizr.dev/"
+languageCode = "en-us"
+theme = "sam"
+defaultContentLanguage   = "en"
+allLanguages             = ["en", "es"]
+isMultilingual           = true
+title                    = "Call me Rob"
+pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+
+[languages]
+    [languages.es]
+        title = "Llámame Rob"
+    [languages.en]
+        title = "Call me Rob"
+
+[params]
+    dateform             = "02 Jan, 2006"
+    dateformfull         = "2 Jan 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+    homepage             = "main"                           # What to call the home page link
+    footerText           = "Roberto Ruiz's Personal Website."
+
+# Metadata for Open Graph and Twitter
+    description          = "Rob Ruiz's personal blog."               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Call me Rob"
+    # rss                = ""
+
+#[[params.mainMenu]]
+#    link = "portfolio"
+#    text = "portfolio"
+
+#[[params.mainMenu]]
+#    link = "posts"
+#    text = "blog"
+
+[[params.mainMenu]]
+    link = "about"
+    text = "who is Rob?"
+
+[imaging]
+    quality = 75
