@@ -2,7 +2,7 @@ baseurl = "https://robruizr.dev/"
 title = "RobRuizR"
 theme = "hugo-creative-portfolio-theme"
 DefaultContentLanguage = "en"
-languageCode = "en-us"
+languageCode = "en"
 # Enable comments by entering your Disqus shortname
 # disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -39,6 +39,14 @@ languageCode = "en-us"
       [[languages.es.params.navlinks]]
       name = "English version"
       url = "portfolio/"
+
+      [languages.es.params.contact]
+        othersContact = "También puedes encontrarme en"
+        formTitle = "¿Platicamos?"
+        formName = "Tu nombre"
+        formEmail = "Tu correo"
+        formMessage = "Tu mensaje para mí"
+        formMessageTemplate = [""]
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
@@ -95,5 +103,13 @@ languageCode = "en-us"
   # email         = "email@example.com"
   twitter       = "https://twitter.com/robruizr"
   github        = "https://github.com/robruizr"
+
+  [params.contact]
+    othersContact = "You can find me also on"
+    formTitle = "Drop me a line, maybe?"
+    formName = "Your name"
+    formEmail = "Your email"
+    formMessage = "Your message for me"
+    formMessageTemplate = [""]
 
 
