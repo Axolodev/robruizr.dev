@@ -3,19 +3,12 @@ date = "2016-11-05T21:05:33+05:30"
 title = "Sobre mí"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+¡Hola! Soy Roberto, un ingeniero de Software que se dedica a desarrollo web, especialmente Front-end. Ah, y también soy profesor.
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+Me encanta aprender cosas nuevas. Me apasiona encontrar maneras de hacer más fácil y accesible el uso de la tecnología. Recientemente estoy enfocándome en el Diseño Interactivo, aprendiendo por medio de la Interaction Design Foundation.
 
-![This is me][1]
+Hago mucho desarrollo web usando React. Llevo trabajando con esta herramienta cerca de dos años. He creado sitios de e-commerce y marketing, plataformas corporativas, sitios web de compañías, y más. ¿Te gustaría conocer mi trabajo? Puedes conocer un poco en la [sección de Portafolio](/es/portfolio), o enviarme un mensaje por medio de [mi formulario de contacto](/es/contact) si te interesa algo en especial.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+Hablo fluidamente español e inglés, y estoy aprendiendo alemán.
 
-#### Education
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
-
-[1]: /img/about.jpg
+En mi tiempo libre me gusta jugar videojuegos, leer novelas de fantasía y practicar artes marciales. ¡Algunas veces hasta canto!

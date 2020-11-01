@@ -89,7 +89,7 @@ languageCode = "en-us"
 
   [[params.navlinks]]
   name = "Versión en español"
-  url = "es/about/"
+  url = "es/portfolio/"
 
   [params.social]
   # email         = "email@example.com"
