@@ -2,15 +2,12 @@
 showonlyimage = false
 draft = false
 image = "img/portfolio/aivia-cover.png"
-date = "2016-11-05T18:25:22+05:30"
+date = "2020-11-17T00:00:00-06:00"
 title = "Case Study: Aivia"
 weight = 1
 +++
 
 This application teaches people how to take care of the environment with easy-to-follow courses, videos, and fun challenges.
 <!--more-->
-
-This application teaches people how to take care of the environment with easy-to-follow courses, videos, and fun challenges.
-
 
 *Currently working on this*
