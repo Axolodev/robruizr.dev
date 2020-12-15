@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://robruizr.dev/portfolio/work1/</loc>
+    <lastmod>2020-11-17T00:00:00-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://robruizr.dev/es/portfolio/work1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://robruizr.dev/portfolio/work1/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://robruizr.dev/portfolio/</loc>
+    <lastmod>2020-11-17T00:00:00-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://robruizr.dev/es/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://robruizr.dev/portfolio/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://robruizr.dev/</loc>
+    <lastmod>2020-11-17T00:00:00-06:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://robruizr.dev/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://robruizr.dev/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://robruizr.dev/about/</loc>
+    <lastmod>2020-11-01T13:00:25+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://robruizr.dev/es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://robruizr.dev/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://robruizr.dev/contact/</loc>
+    <lastmod>2020-11-01T13:00:25+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://robruizr.dev/es/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://robruizr.dev/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://robruizr.dev/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://robruizr.dev/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://robruizr.dev/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://robruizr.dev/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://robruizr.dev/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://robruizr.dev/tags/"
+                />
+  </url>
+  
+</urlset>

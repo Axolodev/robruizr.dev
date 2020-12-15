@@ -7,7 +7,7 @@ title = "Sobre mí"
 
 Me encanta aprender cosas nuevas. Me apasiona encontrar maneras de hacer más fácil y accesible el uso de la tecnología. Recientemente estoy enfocándome en el Diseño Interactivo, aprendiendo por medio de la Interaction Design Foundation.
 
-Hago mucho desarrollo web usando React. Llevo trabajando con esta herramienta cerca de dos años. He creado sitios de e-commerce y marketing, plataformas corporativas, sitios web de compañías, y más. ¿Te gustaría conocer mi trabajo? Puedes conocer un poco en la [sección de Portafolio](/es/portfolio), o enviarme un mensaje por medio de [mi formulario de contacto](/es/contact) si te interesa algo en especial.
+Hago mucho desarrollo web usando React. Llevo trabajando con esta herramienta cerca de tres años. He creado sitios de e-commerce y marketing, plataformas corporativas, sitios web de compañías, y más. ¿Te gustaría conocer mi trabajo? Puedes conocer un poco en la [sección de Portafolio](/es/portfolio), o enviarme un mensaje por medio de [mi formulario de contacto](/es/contact) si te interesa algo en especial.
 
 Hablo fluidamente español e inglés, y estoy aprendiendo alemán.
 
