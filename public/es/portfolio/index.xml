@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolios on RobRuizR</title>
+    <link>https://robruizr.dev/es/portfolio/</link>
+    <description>Recent content in Portfolios on RobRuizR</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 -0600</lastBuildDate>
+    
+	<atom:link href="https://robruizr.dev/es/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Estudio de Caso: Aivia</title>
+      <link>https://robruizr.dev/es/portfolio/case-aivia/</link>
+      <pubDate>Tue, 17 Nov 2020 00:00:00 -0600</pubDate>
+      
+      <guid>https://robruizr.dev/es/portfolio/case-aivia/</guid>
+      <description>&lt;p&gt;Aplicación que enseña a las personas a cuidar del medio ambiente a través de cursos accesibles, videos y divertidos retos.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
