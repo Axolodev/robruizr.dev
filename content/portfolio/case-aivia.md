@@ -22,7 +22,7 @@ Shortly after the contest ended I was lucky enough to be contacted by Iknelia to
 
 Due to the large effort required to develop all of these ideas, and the short period available, we decided to limit the idea to a minimum viable product: a web application for young college students that would facilitate learning about environmental issues through online courses and challenges. Having defined this, the team created the profile of the Persona on whom we would focus all our efforts, and who became our guide for the next stages. This is Santiago López Rodríguez:
 
-![Main characteristics of the Persona developed by the Marketing team together with Iknelia. Frustration 1: He is afraid of the health consequences caused by environmental pollution. Frustration 2: He cannot find an easy way to support the environment](/img/portfolio/aivia/01-persona.png)
+![Main characteristics of the Persona developed by the Marketing team together with Iknelia. Frustration 1: He is afraid of the health consequences caused by environmental pollution. Frustration 2: He cannot find an easy way to help the environment](/img/portfolio/aivia/01-persona-en.png)
 
 
 #### Prototype design and Users research
@@ -33,9 +33,10 @@ Once we identified our users' frustrations, I guided the team through a week-lon
 
 General structure of the application made by me
 
-![Prototype design of the main pages of the application: "Catalogue page", "course visualization" and "lesson taking". In the image, you can see a video player, a questionnaire, and a comment section](/img/portfolio/aivia/03-prototype.png)
 
-Prototype design of main pages of the application: Catalogue page, course visualization, and lesson taking.
+![Prototype design of the main pages of the application: "Catalogue page", "course visualization" and "lesson taking". In the image, you can see a video player, a questionnaire, and a comment section](/img/portfolio/aivia/03-prototipo.png)
+
+Prototype design of the main pages of the application: Catalogue page, course visualization, and lesson taking.
 
 #### User interviews and tests
 

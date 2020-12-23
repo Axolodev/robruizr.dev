@@ -29,9 +29,9 @@ Debido a la gran cantidad de ideas y proyectos que implicaba el cubrir todos lo
 
 Una vez identificadas las frustraciones de nuestros usuarios, guié al equipo a través de una semana enfocada en el ciclo de diseño del Google Design Sprint para facilitar el flujo de ideas, la comunicación y la creación de un prototipo, el cual creé utilizando Webflow:
 
-![Esqueleto general de la aplicación hecho a mano por mí. Se enfoca principalmente en tres pantallas que se listan en la siguiente imagen.](/img/portfolio/aivia/02-mapa.png)
+![Estructura general de la aplicación hecho a mano por mí. Se enfoca principalmente en tres pantallas que se listan en la siguiente imagen.](/img/portfolio/aivia/02-mapa.png)
 
-Esqueleto general de la aplicación hecho por mí
+Estructura general de la aplicación hecho por mí
 
 
 ![Diseño de prototipo de páginas principales de la aplicación: Página de catálogo, visualización de curso y toma de lección. En la imagen puede observarse un reproductor de video, un cuestionario y una sección de comentarios.](/img/portfolio/aivia/03-prototipo.png)
@@ -40,7 +40,7 @@ Diseño de prototipo de páginas principales de la aplicación: Página de catá
 
 #### Entrevistas y pruebas con usuario
 
-Utilizamos el prototipo para hacer pruebas de usabilidad con un grupo de usuarios similar a Santiago, de las cuales posteriormente recopilamos una gran cantidad que nos llevó a pequeñas modificaciones en la aplicación; pero dos citas destacaron sobre el resto y nos llevaron a hacer algunos de los cambios más importantes para la aplicación real:
+Utilizamos el prototipo para hacer pruebas de usabilidad con un grupo de usuarios similar a Santiago, de las cuales posteriormente recopilamos una gran cantidad de información que nos llevó a pequeñas modificaciones en la aplicación. De las entrevistas de usuario hubo dos citas que destacaron sobre el resto y nos llevaron a hacer algunos de los cambios más importantes para la aplicación real:
 
 - **"¿A qué me estoy suscribiendo? No sé por qué me piden mi nombre y correo."** - Gracias a que un entrevistado mencionó esto, notamos que era necesario mejorar la transparencia de información de la aplicación y la solicitud de datos personales, por lo que cambiamos la navegación a una estructura más pública y que no requiriera hacer una cuenta antes de ver los cursos disponibles
 - **"¿Por qué me sacó de la página al querer ver un reto? No entendí qué pasó."** - Debido a la mención de una entrevistada de esta frase, y de la confusión reflejada en algunos otros entrevistados al interactuar con esta sección de la aplicación, decidimos cambiar la estructura de esta parte a algo que trabajara dentro del mismo sitio, en vez de llevar al usuario a una página externa.
