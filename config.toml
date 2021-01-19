@@ -20,7 +20,7 @@ languageCode = "en"
       copyright = "&copy; RobRuizR"
       sidebarAbout = [
         "Profesor de cátedra en el Tec de Monterrey e Ingeniero de Software con 5 años de experiencia en Desarrollo Web",
-        "Me apasiona la enseñanza, y el mejorar cómo enseñamos.",
+        "Me apasiona la accesibilidad tecnológica, la enseñanza y el encontrar mejores formas para enseñar.",
         "Actualmente viviendo en México."
       ]
 
@@ -57,7 +57,7 @@ languageCode = "en"
   copyright = "&copy; RobRuizR"
   sidebarAbout = [
     "Associate Professor at Tec de Monterrey and Software Engineer with 5 years of experience in Web Development.",
-    "Passionate about teaching, and improving how we teach.",
+    "Passionate about accessible technology, teaching, and improving how we teach.",
     "Currently living in Mexico."
   ]
   # Contact page
