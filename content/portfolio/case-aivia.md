@@ -7,7 +7,7 @@ title = "Case Study: Aivia"
 weight = 1
 +++
 
-This application teaches people how to take care of the environment with easy-to-follow courses, videos, and fun challenges.
+Application that teaches people how to take care of the environment with easy-to-follow courses, videos, and fun challenges.
 
 <!--more-->
 ## Introduction to the project
