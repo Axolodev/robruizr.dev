@@ -7,15 +7,15 @@ title = "Project: Club de la Excelencia Luker"
 weight = 3
 +++
 
-Colombian eCommerce platform that rewards overachieving salespeople.
+A Colombian eCommerce platform that rewards overachieving salespeople.
 
 <!--more-->
 
 ## About this project
 
-Project developed in an association with the GeneralSoft backend team. This web application was built using NextJS as frontend and .net as backend.
+A project developed in association with the GeneralSoft backend team. This web application was built using NextJS as frontend and .net as backend.
 
-I worked as the lead developer of a team of three people and coordinated the frontend development of the application. The biggest difficulty was to develop everything in a timeframe of six weeks. However, this period was met and everything was delivered accordingly and deployed to a Windows server.
+I worked as the lead developer of a team of three people and coordinated the application's frontend development. The greatest difficulty was to develop everything in a timeframe of six weeks. However, this period was met, and everything was delivered accordingly and deployed to a Windows server.
 
 
 ## Technical Sheet
@@ -35,7 +35,7 @@ Technologies I worked with while developing this project.
 
 Home page
 
-![Cart page. It has a list of all the products a user has added to their cart, and a small card with the points available to the user.](/img/portfolio/luker/luker-4-cart.png)
+![Cart page. It has a list of all the products a user has added to their cart and a small card with the user's points.](/img/portfolio/luker/luker-4-cart.png)
 
 Cart page
 
