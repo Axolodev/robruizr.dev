@@ -19,7 +19,8 @@ languageCode = "en"
       description = "Sitio web de RobRuizR"
       copyright = "&copy; RobRuizR"
       sidebarAbout = [
-        "Profesor e Ingeniero de Software con 4 años de experiencia en Desarrollo Web",
+        "Profesor de cátedra en el Tec de Monterrey e Ingeniero de Software con 5 años de experiencia en Desarrollo Web",
+        "Me apasiona la enseñanza, y el mejorar cómo enseñamos.",
         "Actualmente viviendo en México."
       ]
 
@@ -55,7 +56,8 @@ languageCode = "en"
   description = "Describe your website"
   copyright = "&copy; RobRuizR"
   sidebarAbout = [
-    "Teacher and Software Engineer with 4 years of experience in Web Development",
+    "Associate Professor at Tec de Monterrey and Software Engineer with 5 years of experience in Web Development.",
+    "Passionate about teaching, and improving how we teach.",
     "Currently living in Mexico."
   ]
   # Contact page
