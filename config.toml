@@ -16,7 +16,8 @@ languageCode = "en"
     [languages.es.params]
       # Style options: default (pink), blue, green, pink, red, sea, violet
       # Use custom.css for your custom styling
-      description = "Sitio web de RobRuizR"
+      description = "Sitio web de Roberto Ruiz"
+      appendTitle = "Sitio de Roberto Ruiz"
       copyright = "&copy; RobRuizR"
       sidebarAbout = [
         "Profesor de cátedra en el Tec de Monterrey e Ingeniero de Software con 5 años de experiencia en Desarrollo Web",
@@ -37,6 +38,10 @@ languageCode = "en"
       name = "Contáctame"
       url = "es/contact/"
 
+      #[[languages.es.params.navlinks]]
+      #name = "Blog"
+      #url = "es/blog/"
+
       [[languages.es.params.navlinks]]
       name = "English version"
       url = "portfolio/"
@@ -53,7 +58,8 @@ languageCode = "en"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "violet"
-  description = "Describe your website"
+  description = "Web Developer and Associate Professor at Tec de Monterrey who wants to make it easier to learn how to code."
+  appendTitle = "Roberto Ruiz's Website"
   copyright = "&copy; RobRuizR"
   sidebarAbout = [
     "Associate Professor at Tec de Monterrey and Software Engineer with 5 years of experience in Web Development.",
@@ -96,6 +102,10 @@ languageCode = "en"
   [[params.navlinks]]
   name = "Get in touch"
   url = "contact/"
+
+  [[params.navlinks]]
+      name = "Blog"
+      url = "blog/"
 
   [[params.navlinks]]
   name = "Versión en español"

@@ -5,11 +5,9 @@ image = "img/portfolio/aivia-cover.png"
 date = "2020-11-17T00:00:00-06:00"
 title = "Case Study: Aivia"
 weight = 1
+description = "Application that teaches people how to take care of the environment with easy-to-follow courses, videos, and fun challenges."
 +++
 
-Application that teaches people how to take care of the environment with easy-to-follow courses, videos, and fun challenges.
-
-<!--more-->
 ## Introduction to the project
 
 About a year ago, Iknelia's team became finalists in a competition organized by Tec de Monterrey, one of the top universities in Latin America and my place of work. In this contest, participants had to create a technological tool that would provide a means to improve the environmental situation. Thanks to their great effort and creativity, Iknelia's idea was the winner. However, they lacked the technical expertise required to develop the application the way they wanted.

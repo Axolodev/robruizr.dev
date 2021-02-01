@@ -5,11 +5,8 @@ image = "img/portfolio/luker-cover.png"
 date = "2021-01-05T00:00:00-06:00"
 title = "Project: Club de la Excelencia Luker"
 weight = 3
+description = "Plataforma colombiana de eCommerce que recompensa a vendedores que sobrepasan sus metas."
 +++
-
-Plataforma colombiana de eCommerce que recompensa a vendedores que sobrepasan sus metas.
-
-<!--more-->
 
 ## Acerca del proyecto.
 

@@ -1,8 +1,15 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-{{ with .Title }}<title>{{ . }}</title>{{ end }}
+{{ if .Title }}
+  <title>
+    {{ .Title }}
+    {{ with .Site.Params.appendTitle }}
+    - {{ . }}
+    {{ end }}
+  </title>
+{{ end }}
 {{ if in .Permalink "portfolio" }}
-  {{ with .Summary }}
+  {{ with .Description }}
     <meta name="description" content="{{ . | plainify }}">
     <meta name="twitter:description" content="{{ . | plainify }}">
   {{ end }}

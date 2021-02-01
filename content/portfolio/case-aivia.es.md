@@ -5,10 +5,8 @@ image = "img/portfolio/aivia-cover.png"
 date = "2020-11-17T00:00:00-06:00"
 title = "Estudio de Caso: Aivia"
 weight = 1
+description = "Aplicación que enseña a las personas a cuidar del medio ambiente a través de cursos accesibles, videos y divertidos retos."
 +++
-
-Aplicación que enseña a las personas a cuidar del medio ambiente a través de cursos accesibles, videos y divertidos retos.
-<!--more-->
 
 ## Introducción al proyecto
 
