@@ -6,7 +6,7 @@
     <description>Recent content in Portfolios on RobRuizR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://robruizr.dev/es/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,27 @@
       <pubDate>Tue, 17 Nov 2020 00:00:00 -0600</pubDate>
       
       <guid>https://robruizr.dev/es/portfolio/case-aivia/</guid>
-      <description>&lt;p&gt;Aplicación que enseña a las personas a cuidar del medio ambiente a través de cursos accesibles, videos y divertidos retos.&lt;/p&gt;</description>
+      <description>Introducción al proyecto Hace aproximadamente un año el equipo de Iknelia pasó a ser finalista de un concurso organizado por el Tec de Monterrey, la universidad donde trabajo. En este, los concursantes debían crear una herramienta tecnológica que proporcionara un medio para mejorar la situación medioambiental y, gracias a su gran esfuerzo y creatividad, su idea fue la ganadora. Sin embargo, no tenían el conocimiento técnico necesario para crearla del modo que deseaban.</description>
+    </item>
+    
+    <item>
+      <title>Project: Club de la Excelencia Luker</title>
+      <link>https://robruizr.dev/es/portfolio/colegiaturas/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 -0600</pubDate>
+      
+      <guid>https://robruizr.dev/es/portfolio/colegiaturas/</guid>
+      <description>Acerca del proyecto. Este proyecto fue desarrollado en asociación con el equipo de backend de GeneralSoft. La aplicación fue constuida usando NextJS como frontend y .net como backend.
+En este proyecto tomé el rol de líder de desarrollo de un equipo de tres personas encargado del frontend de la aplicación. La mayor dificultad fue desarrollar todo en un periodo de seis semanas. Sin embargo, el tiempo se cumplió según lo acordado.</description>
+    </item>
+    
+    <item>
+      <title>Project: Club de la Excelencia Luker</title>
+      <link>https://robruizr.dev/es/portfolio/luker/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 -0600</pubDate>
+      
+      <guid>https://robruizr.dev/es/portfolio/luker/</guid>
+      <description>Acerca del proyecto. Este proyecto fue desarrollado en asociación con el equipo de backend de GeneralSoft. La aplicación fue constuida usando NextJS como frontend y .net como backend.
+En este proyecto tomé el rol de líder de desarrollo de un equipo de tres personas encargado del frontend de la aplicación. La mayor dificultad fue desarrollar todo en un periodo de seis semanas. Sin embargo, el tiempo se cumplió según lo acordado.</description>
     </item>
     
   </channel>

@@ -3,14 +3,14 @@ showonlyimage = false
 draft = false
 image = "img/portfolio/luker-cover.png"
 date = "2021-01-05T00:00:00-06:00"
-title = "Project: Club de la Excelencia Luker"
+title = "Proyecto: Club de la Excelencia Luker"
 weight = 3
 description = "Plataforma colombiana de eCommerce que recompensa a vendedores que sobrepasan sus metas."
 +++
 
 ## Acerca del proyecto.
 
-Este proyecto fue desarrollado en asociación con el equipo de backend de GeneralSoft. La aplicación fue constuida usando NextJS como frontend y .net como backend.
+Este proyecto fue desarrollado en asociación con el equipo de backend de GeneralSoft. La aplicación fue construida usando NextJS como frontend y .net como backend.
 
 En este proyecto tomé el rol de líder de desarrollo de un equipo de tres personas encargado del frontend de la aplicación. La mayor dificultad fue desarrollar todo en un periodo de seis semanas. Sin embargo, el tiempo se cumplió según lo acordado. El proyecto fue liberado en un servidor Windows
 
@@ -31,7 +31,7 @@ Tecnologías usadas para el desarrollo de este proyecto.
 
 Página de inicio
 
-![Cart page. It has a list of all the products a user has added to their cart, and a small card with the points available to the user.](/img/portfolio/luker/luker-4-cart.png)
+![Página de carrito. Tiene una tabla de todos los productos que un usuario ha agregado a su carrito, y una tarjeta con el saldo disponible para el usuario.](/img/portfolio/luker/luker-4-cart.png)
 
 Página de carrito
 

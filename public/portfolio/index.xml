@@ -6,7 +6,7 @@
     <description>Recent content in Portfolios on RobRuizR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2020 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://robruizr.dev/portfolio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,7 +17,27 @@
       <pubDate>Tue, 17 Nov 2020 00:00:00 -0600</pubDate>
       
       <guid>https://robruizr.dev/portfolio/case-aivia/</guid>
-      <description>&lt;p&gt;This application teaches people how to take care of the environment with easy-to-follow courses, videos, and fun challenges.&lt;/p&gt;</description>
+      <description>Introduction to the project About a year ago, Iknelia&amp;rsquo;s team became finalists in a competition organized by Tec de Monterrey, one of the top universities in Latin America and my place of work. In this contest, participants had to create a technological tool that would provide a means to improve the environmental situation. Thanks to their great effort and creativity, Iknelia&amp;rsquo;s idea was the winner. However, they lacked the technical expertise required to develop the application the way they wanted.</description>
+    </item>
+    
+    <item>
+      <title>Project: Club de la Excelencia Luker</title>
+      <link>https://robruizr.dev/portfolio/colegiaturas/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 -0600</pubDate>
+      
+      <guid>https://robruizr.dev/portfolio/colegiaturas/</guid>
+      <description>About this project A project developed in association with the GeneralSoft backend team. This web application was built using NextJS as frontend and .net as backend.
+I worked as the lead developer of a team of three people and coordinated the application&amp;rsquo;s frontend development. The greatest difficulty was to develop everything in a timeframe of six weeks. However, this period was met, and everything was delivered accordingly and deployed to a Windows server.</description>
+    </item>
+    
+    <item>
+      <title>Project: Club de la Excelencia Luker</title>
+      <link>https://robruizr.dev/portfolio/luker/</link>
+      <pubDate>Tue, 05 Jan 2021 00:00:00 -0600</pubDate>
+      
+      <guid>https://robruizr.dev/portfolio/luker/</guid>
+      <description>About this project A project developed in association with the GeneralSoft backend team. This web application was built using NextJS as frontend and .net as backend.
+I worked as the lead developer of a team of three people and coordinated the application&amp;rsquo;s frontend development. The greatest difficulty was to develop everything in a timeframe of six weeks. However, this period was met, and everything was delivered accordingly and deployed to a Windows server.</description>
     </item>
     
   </channel>
