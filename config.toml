@@ -20,9 +20,8 @@ languageCode = "en"
       appendTitle = "Sitio de Roberto Ruiz"
       copyright = "&copy; RobRuizR"
       sidebarAbout = [
-        "Profesor de cátedra en el Tec de Monterrey e Ingeniero de Software con 5 años de experiencia en Desarrollo Web",
-        "Me apasiona la accesibilidad tecnológica, la enseñanza y el encontrar mejores formas para enseñar.",
-        "Actualmente viviendo en México."
+        "¡Hola! Soy un ingeniero de UI que se especializa en el desarrollo web. Me encanta enseñar a otras personas sobre programación.",
+        "Actualmente vivo en México y trabajo en FX Digital."
       ]
 
       [[languages.es.params.navlinks]]
@@ -38,9 +37,9 @@ languageCode = "en"
       name = "Contáctame"
       url = "es/contact/"
 
-      #[[languages.es.params.navlinks]]
-      #name = "Blog"
-      #url = "es/blog/"
+      [[languages.es.params.navlinks]]
+      name = "Mi blog (Solo en inglés)"
+      url = "https://blog.robruizr.dev/"
 
       [[languages.es.params.navlinks]]
       name = "English version"
@@ -58,13 +57,12 @@ languageCode = "en"
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "violet"
-  description = "Web Developer and Associate Professor at Tec de Monterrey who wants to make it easier to learn how to code."
+  description = "UI Engineer at FX Digital looking for new ways to teach people how to code."
   appendTitle = "Roberto Ruiz's Website"
   copyright = "&copy; RobRuizR"
   sidebarAbout = [
-    "Associate Professor at Tec de Monterrey and Software Engineer with 5 years of experience in Web Development.",
-    "Passionate about accessible technology, teaching, and improving how we teach.",
-    "Currently living in Mexico."
+    "Hello! I'm a UI Engineer who loves teaching other people about Frontend development.",
+    "Currently living in Mexico and working at FX Digital."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -104,8 +102,8 @@ languageCode = "en"
   url = "contact/"
 
   [[params.navlinks]]
-      name = "Blog"
-      url = "blog/"
+      name = "My blog"
+      url = "https://blog.robruizr.dev/"
 
   [[params.navlinks]]
   name = "Versión en español"
