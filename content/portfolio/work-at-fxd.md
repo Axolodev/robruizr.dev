@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/fxd/thumbnail.png"
 date = "2023-03-12T20:44:03.981Z"
 title = "My Work at Fx Digital"
-weight = 2
+weight = 5
 description = "My work as a developer at Fx Digital."
 slug = "work-fx-digital"
 +++
