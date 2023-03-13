@@ -6,7 +6,7 @@
     <description>Recent content on RobRuizR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Jan 2021 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Wed, 05 May 2021 00:00:00 -0600</lastBuildDate>
     
 	<atom:link href="https://robruizr.dev/index.xml" rel="self" type="application/rss+xml" />
     
@@ -22,22 +22,22 @@
     
     <item>
       <title>Project: Club de la Excelencia Luker</title>
-      <link>https://robruizr.dev/portfolio/colegiaturas/</link>
-      <pubDate>Tue, 05 Jan 2021 00:00:00 -0600</pubDate>
-      
-      <guid>https://robruizr.dev/portfolio/colegiaturas/</guid>
-      <description>About this project A project developed in association with the GeneralSoft backend team. This web application was built using NextJS as frontend and .net as backend.
-I worked as the lead developer of a team of three people and coordinated the application&amp;rsquo;s frontend development. The greatest difficulty was to develop everything in a timeframe of six weeks. However, this period was met, and everything was delivered accordingly and deployed to a Windows server.</description>
-    </item>
-    
-    <item>
-      <title>Project: Club de la Excelencia Luker</title>
       <link>https://robruizr.dev/portfolio/luker/</link>
       <pubDate>Tue, 05 Jan 2021 00:00:00 -0600</pubDate>
       
       <guid>https://robruizr.dev/portfolio/luker/</guid>
       <description>About this project A project developed in association with the GeneralSoft backend team. This web application was built using NextJS as frontend and .net as backend.
 I worked as the lead developer of a team of three people and coordinated the application&amp;rsquo;s frontend development. The greatest difficulty was to develop everything in a timeframe of six weeks. However, this period was met, and everything was delivered accordingly and deployed to a Windows server.</description>
+    </item>
+    
+    <item>
+      <title>Project: Tuitions</title>
+      <link>https://robruizr.dev/portfolio/colegiaturas/</link>
+      <pubDate>Wed, 05 May 2021 00:00:00 -0600</pubDate>
+      
+      <guid>https://robruizr.dev/portfolio/colegiaturas/</guid>
+      <description>Acerca del proyecto. Project developed in association with the IntelySoft backend team. This web application was built using NextJS as frontend and .net as backend, along with GraphQL as a means of communicating both parts.
+In this project I took the role of lead frontend developer. The greatest difficulty I faced was connecting both the frontend and backend with the payment gateway. This project is currently up and running on a Windows Server.</description>
     </item>
     
   </channel>

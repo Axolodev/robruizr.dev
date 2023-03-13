@@ -1,0 +1,4 @@
+{
+  "frontMatter.preview.host": "localhost:1313",
+  "frontMatter.framework.startCommand": "hugo serve"
+}

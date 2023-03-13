@@ -4,7 +4,7 @@ draft = false
 image = "img/portfolio/aivia-cover.png"
 date = "2020-11-17T00:00:00-06:00"
 title = "Case Study: Aivia"
-weight = 1
+weight = 10
 description = "Application that teaches people how to take care of the environment with easy-to-follow courses, videos, and fun challenges."
 +++
 

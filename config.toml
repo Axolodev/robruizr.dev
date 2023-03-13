@@ -20,14 +20,18 @@ languageCode = "en"
       appendTitle = "Sitio de Roberto Ruiz"
       copyright = "&copy; RobRuizR"
       sidebarAbout = [
-        "¡Hola! Soy un ingeniero de UI que se especializa en el desarrollo web. Me encanta enseñar a otras personas sobre programación.",
-        "Actualmente vivo en México y trabajo en FX Digital."
+        "¡Hola! Soy un ingeniero de Frontend que se especializa en el desarrollo web. Me encanta enseñar a otras personas sobre programación.",
+        "Actualmente estoy estudiando una maestría en Interacción Humano-Computadora en Alemania."
       ]
 
       [[languages.es.params.navlinks]]
-      name = "Inicio"
+      name = "Proyectos"
       url = "es/portfolio/"
       home = true
+
+      [[languages.es.params.navlinks]]
+      name = "Cursos"
+      url = "es/courses/"
 
       [[languages.es.params.navlinks]]
       name = "Sobre mí"
@@ -62,7 +66,7 @@ languageCode = "en"
   copyright = "&copy; RobRuizR"
   sidebarAbout = [
     "Hello! I'm a UI Engineer who loves teaching other people about Frontend development.",
-    "Currently living in Mexico and working at FX Digital."
+    "Currently doing a masters degree in Human-Computer Interaction in Germany."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -89,9 +93,13 @@ languageCode = "en"
 
   # Nav links in the side bar
   [[params.navlinks]]
-  name = "Home"
+  name = "Projects"
   url = "portfolio/"
   home = true
+
+  [[params.navlinks]]
+  name = "Courses"
+  url = "courses/"
 
   [[params.navlinks]]
   name = "About"
@@ -113,9 +121,10 @@ languageCode = "en"
   # email         = "email@example.com"
   twitter       = "https://twitter.com/robruizr"
   github        = "https://github.com/robruizr"
+  linkedin        = "https://www.linkedin.com/in/robruizr"
 
   [params.contact]
-    othersContact = "You can find me also on"
+    othersContact = "You can also find me on"
     formTitle = "Drop me a line, maybe?"
     formName = "Your name"
     formEmail = "Your email"
