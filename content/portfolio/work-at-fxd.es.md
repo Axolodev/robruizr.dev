@@ -4,8 +4,8 @@ draft = false
 image = "img/portfolio/fxd/thumbnail.png"
 date = "2023-03-12T20:44:03.981Z"
 title = "Mi trabajo en Fx Digital"
-weight = 5
-description = "Proyectos en los que trabajé en Fx Digital"
+weight = 2
+description = "Proyectos en los que trabajé en Fx Digital, principalmente con Lightning.js."
 slug = "work-fx-digital"
 +++
 

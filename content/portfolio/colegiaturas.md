@@ -5,7 +5,7 @@ image = "img/portfolio/colegiaturas/thumbnail.png"
 date = "2021-05-05T00:00:00-06:00"
 title = "Project: Tuitions"
 weight = 100
-description = "Platform for online tuition payment."
+description = "Platform for online tuition payment. Done with Next.js and TypeScript."
 +++
 
 ## Acerca del proyecto.

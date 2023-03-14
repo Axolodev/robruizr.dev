@@ -5,7 +5,7 @@ image = "img/portfolio/luker-cover.png"
 date = "2021-01-05T00:00:00-06:00"
 title = "Proyecto: Club de la Excelencia Luker"
 weight = 9
-description = "Plataforma colombiana de eCommerce que recompensa a vendedores que sobrepasan sus metas."
+description = "Plataforma colombiana de eCommerce que recompensa a vendedores que sobrepasan sus metas. Hecho con Next.js."
 +++
 
 ## Acerca del proyecto.
