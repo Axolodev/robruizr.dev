@@ -29,9 +29,9 @@ languageCode = "en"
       url = "es/portfolio/"
       home = true
 
-      [[languages.es.params.navlinks]]
-      name = "Cursos"
-      url = "es/courses/"
+      #[[languages.es.params.navlinks]]
+      #name = "Cursos"
+      #url = "es/courses/"
 
       [[languages.es.params.navlinks]]
       name = "Sobre mí"
@@ -97,9 +97,9 @@ languageCode = "en"
   url = "portfolio/"
   home = true
 
-  [[params.navlinks]]
-  name = "Courses"
-  url = "courses/"
+  #[[params.navlinks]]
+  #name = "Courses"
+  #url = "courses/"
 
   [[params.navlinks]]
   name = "About"
