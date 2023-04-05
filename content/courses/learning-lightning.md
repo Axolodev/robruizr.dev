@@ -13,6 +13,9 @@ weight = 20
 
 
 > "It was amazing! Super proud and happy to have you on the team!" - David Flores, my ex-boss at Fx Digital
+>
+> "Roberto is our resident Lightning.js expert and regularly runs hugely impactful training sessions like the one shared here with the wider team and new joiners." - Matthew Duhig, co-founder of Fx Digital.
+
 
 ## The Context 
 I designed and facilitated a series of workshops on how to use Lightning.js, directed at frontend developers from Fx Digital. Said developers either included both people with little to no experience in Lightning.js as well as people with some experience who wanted to expand their knowledge.
