@@ -2,5 +2,6 @@
   "frontMatter.preview.host": "localhost:1313",
   "frontMatter.framework.startCommand": "hugo serve",
   "[markdown]": {},
-  "frontMatter.content.fmHighlight": false
+  "frontMatter.content.fmHighlight": false,
+  "editor.formatOnSave": false
 }

@@ -29,9 +29,9 @@ languageCode = "en"
       url = "es/portfolio/"
       home = true
 
-      #[[languages.es.params.navlinks]]
-      #name = "Cursos"
-      #url = "es/courses/"
+      # [[languages.es.params.navlinks]]
+      # name = "Cursos y Talleres"
+      # url = "es/courses/"
 
       [[languages.es.params.navlinks]]
       name = "Sobre mí"
@@ -44,6 +44,11 @@ languageCode = "en"
       [[languages.es.params.navlinks]]
       name = "Mi blog (Solo en inglés)"
       url = "https://blog.robruizr.dev/"
+
+      [[languages.es.params.navlinks]]
+      name = "Mi CV"
+      url = "roberto_ruiz_cv.pdf"
+      target = "resume"
 
       [[languages.es.params.navlinks]]
       name = "English version"
@@ -97,9 +102,9 @@ languageCode = "en"
   url = "portfolio/"
   home = true
 
-  #[[params.navlinks]]
-  #name = "Courses"
-  #url = "courses/"
+  [[params.navlinks]]
+  name = "Courses & Workshops"
+  url = "courses/"
 
   [[params.navlinks]]
   name = "About"
@@ -110,8 +115,13 @@ languageCode = "en"
   url = "contact/"
 
   [[params.navlinks]]
-      name = "My blog"
-      url = "https://blog.robruizr.dev/"
+  name = "My blog"
+  url = "https://blog.robruizr.dev/"
+
+  [[params.navlinks]]
+  name = "My resumé"
+  url = "roberto_ruiz_cv.pdf"
+  target = "resume"
 
   [[params.navlinks]]
   name = "Versión en español"
