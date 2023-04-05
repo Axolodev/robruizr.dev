@@ -28,4 +28,8 @@ For me, the biggest challenge was trying to cover everything in just an hour. Fo
 
 ## The Outcome
 This workshop was used throughout 2018 and 2019 to help over 150 students learn Git. It was very well received every time, and I got great feedback. 
-Funny enough, this workshop later enabled me to become a professor associate at Tec de Monterrey! The skills I showed through teaching it and the good reviews I got helped me network with a few people in charge of hiring new professors, which later led to my hiring.
+Funny enough, this workshop later enabled me to become a professor associate at Tec de Monterrey! The skills I showed through teaching it and the good reviews I got helped me network with the people in charge of hiring new professors, which later led to my hiring.
+
+![Certificate of recognition that Tecnológico de Monterrey awarded me for the workshop](/img/courses/introduction-to-git/certificate.png)
+
+> Certificate of recognition that Tecnológico de Monterrey awarded me for the workshop
