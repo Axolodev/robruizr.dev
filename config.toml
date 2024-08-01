@@ -46,11 +46,6 @@ languageCode = "en"
       url = "https://blog.robruizr.dev/"
 
       [[languages.es.params.navlinks]]
-      name = "Mi CV"
-      url = "roberto_ruiz_cv.pdf"
-      target = "resume"
-
-      [[languages.es.params.navlinks]]
       name = "English version"
       url = "portfolio/"
 
@@ -117,11 +112,6 @@ languageCode = "en"
   [[params.navlinks]]
   name = "My blog"
   url = "https://blog.robruizr.dev/"
-
-  [[params.navlinks]]
-  name = "My resumé"
-  url = "roberto_ruiz_cv.pdf"
-  target = "resume"
 
   [[params.navlinks]]
   name = "Versión en español"
